@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(85, 153, 204);
+}
+#boardBox {
+    margin: 0 auto;
+    padding: 0px;
+}
+table{
+    margin:auto;
+}
+td {
+    background-color: rgb(153, 204, 238);
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+}
+.path{
+    background-color: grey;
+}
+.move{
+    background-color:red;
+}
+.firstclick div{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+}
+.bubble{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+#previevBox .bubble{
+    display: inline-block;
+}
+.z{
+    background-color: green;
+}
+.n{
+    background-color: blue;
+}
+.c{
+    background-color: black;
+}
+.f{
+    background-color: violet;
+}
+.y{
+    background-color: yellow;
+}
+.o{
+    background-color: orange;
+}
+.b{
+    background-color: white;
+}
